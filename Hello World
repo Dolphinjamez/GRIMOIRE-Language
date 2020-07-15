@@ -1,0 +1,12 @@
+//GRIMOIRE has double-slash comments.
+//Its first Hello World program is similar to that of Python.
+
+print("Hello, world!")
+
+//There's a second Hello World below that uses functional programming.
+def hello_world()
+{
+  print("Hello, world!")
+}
+
+//I'll cover the keyword that GRIMOIRE is really named for in the next document.
