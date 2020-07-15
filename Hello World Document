@@ -9,4 +9,6 @@ def hello_world()
   print("Hello, world!")
 }
 
+hello_world()
+
 //I'll cover the keyword that GRIMOIRE is really named for in the next document.
