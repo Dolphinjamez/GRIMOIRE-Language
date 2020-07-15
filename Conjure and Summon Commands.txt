@@ -1,0 +1,13 @@
+The two keys to the GRIMOIRE language are the Conjure and Summon keywords.
+
+name - Insert any name here.
+
+Conjure - Defines a higher order construct.
+Conjure class name(input) - Defines a class.
+Conjure agent name(input) - Creates an agent and defines its type.
+
+Summon - Instantiates a higher order construct.
+Summon object name = class_name(input) - Instantiates a copy of an object.
+Summon agent name = agent_name(input) - Instantiates a copy of an agent.
+
+Banish(name) - Destroys an object or agent.
